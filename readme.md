@@ -4,7 +4,7 @@
 
 ### Guidelines for use
 
-- Visit [this link] (https://github.com/enayetsyl/backend-boilerplate) to download the code. 
+- Visit [this link](https://github.com/enayetsyl/backend-boilerplate) to download the code. 
 
 - Alternatively, you can clone the project using the following command: 
 
